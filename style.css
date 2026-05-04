@@ -45,7 +45,7 @@ body {
   border-radius: 50%;
   width: 100px;
 }
-.container p{
+.container p, .container h2{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,9 +78,16 @@ button {
   border-radius: 7px;
   font-family: "Inter";
   font-weight: 700;
+  transition: background-color 0.3s ease;
 }
 button:hover {
   cursor: pointer;
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 12%);
+  transform: scale(1.02);
+}
+button:focus {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
+  outline: none;
 }
