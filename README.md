@@ -43,7 +43,7 @@ body {
 
 ### Continued development
 
-Handling this was quite easy, but I hope to work on Gridbox and media query im future projects and focus on responsiveness overall
+Handling this was quite easy, but I hope to work on Gridbox and media query in future projects and focus on responsiveness overall
 
 ## Author
 - Frontend Mentor - [@loixrang](https://www.frontendmentor.io/profile/loixrang)
